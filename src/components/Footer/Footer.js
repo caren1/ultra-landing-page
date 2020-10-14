@@ -36,10 +36,10 @@ const Footer = () => {
                             Contact Us
                         </FooterLinkTitle>
                         <FooterLink to="/sign-up">Contact Us</FooterLink>
-                        <FooterLink to="/">Testimonials</FooterLink>
-                        <FooterLink to="/">Career</FooterLink>
-                        <FooterLink to="/">Investors</FooterLink> 
-                        <FooterLink to="/">Terms of Service</FooterLink>
+                        <FooterLink to="/">Contact</FooterLink>
+                        <FooterLink to="/">Support</FooterLink>
+                        <FooterLink to="/">Destinations</FooterLink> 
+                        <FooterLink to="/">Sponsorships</FooterLink>
                     </FooterLinksItems>
                     </FooterLinksWrapper>
                     <FooterLinksWrapper>
@@ -47,22 +47,21 @@ const Footer = () => {
                         <FooterLinkTitle>
                             Videos
                         </FooterLinkTitle>
-                        <FooterLink to="/sign-up">Videos</FooterLink>
-                        <FooterLink to="/">Testimonials</FooterLink>
-                        <FooterLink to="/">Career</FooterLink>
-                        <FooterLink to="/">Investors</FooterLink> 
-                        <FooterLink to="/">Terms of Service</FooterLink>
+                        <FooterLink to="/sign-up">Submit Video</FooterLink>
+                        <FooterLink to="/">Ambassadors</FooterLink>
+                        <FooterLink to="/">Agency</FooterLink>
+                        <FooterLink to="/">Influencer</FooterLink> 
                     </FooterLinksItems>
 
                     <FooterLinksItems>
                         <FooterLinkTitle>
                             Social Media
                         </FooterLinkTitle>
-                        <FooterLink to="/sign-up">Social Media</FooterLink>
-                        <FooterLink to="/">Testimonials</FooterLink>
-                        <FooterLink to="/">Career</FooterLink>
-                        <FooterLink to="/">Investors</FooterLink> 
-                        <FooterLink to="/">Terms of Service</FooterLink>
+                        <FooterLink to="/sign-up">Instagram</FooterLink>
+                        <FooterLink to="/">Facebook</FooterLink>
+                        <FooterLink to="/">Youtube</FooterLink>
+                        <FooterLink to="/">Twitter</FooterLink> 
+                        <FooterLink to="/">LinkedIn</FooterLink>
                     </FooterLinksItems>
                 </FooterLinksWrapper>
             </FooterLinksContainer>
