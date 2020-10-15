@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/ultra-landing-page/static/js/main.1073089e.chunk.js",
+    "main.js.map": "/ultra-landing-page/static/js/main.1073089e.chunk.js.map",
+    "runtime-main.js": "/ultra-landing-page/static/js/runtime-main.9b3ac3e7.js",
+    "runtime-main.js.map": "/ultra-landing-page/static/js/runtime-main.9b3ac3e7.js.map",
+    "static/js/2.3dd7ee7b.chunk.js": "/ultra-landing-page/static/js/2.3dd7ee7b.chunk.js",
+    "static/js/2.3dd7ee7b.chunk.js.map": "/ultra-landing-page/static/js/2.3dd7ee7b.chunk.js.map",
+    "index.html": "/ultra-landing-page/index.html",
+    "precache-manifest.f865204b73a84c17a8fd0d51f3aadd13.js": "/ultra-landing-page/precache-manifest.f865204b73a84c17a8fd0d51f3aadd13.js",
+    "service-worker.js": "/ultra-landing-page/service-worker.js",
+    "static/js/2.3dd7ee7b.chunk.js.LICENSE.txt": "/ultra-landing-page/static/js/2.3dd7ee7b.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/ultra-landing-page/static/media/profile.79ba2002.jpg",
+    "static/media/svg-1.svg": "/ultra-landing-page/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/ultra-landing-page/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-3.svg": "/ultra-landing-page/static/media/svg-3.397c455a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b3ac3e7.js",
+    "static/js/2.3dd7ee7b.chunk.js",
+    "static/js/main.1073089e.chunk.js"
+  ]
+}
