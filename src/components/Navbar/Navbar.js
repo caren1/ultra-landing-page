@@ -1,8 +1,25 @@
 import React, { useState, useEffect } from 'react'
+
+// REACT ICONS
 import { FaTimes, FaBars } from 'react-icons/fa'
 import { IconContext } from 'react-icons/lib'
+
+// GLOBAL STYLES
 import { Button } from '../../globalStyles'
-import { Nav, NavbarContainer, NavLogo, NavIcon, MobileIcon, NavMenu, NavItem, NavLinks, NavItemBtn, NavBtnLink } from './Navbar.elements'
+
+// COMPONENT'S ELEMENTS
+import {
+    Nav,
+    NavbarContainer,
+    NavLogo,
+    NavIcon,
+    MobileIcon,
+    NavMenu,
+    NavItem,
+    NavLinks,
+    NavItemBtn,
+    NavBtnLink
+} from './Navbar.elements'
 
 const Navbar = () => {
 
@@ -30,7 +47,7 @@ window.addEventListener('resize', showButton);
         <>
          <IconContext.Provider value={{ color: '#fff' }}>
             <Nav>
-                <NavbarContainer >
+                <NavbarContainer>
                     <NavLogo to="/" onClick={closeMobileMenu}> 
                         <NavIcon />
                             ULTRA

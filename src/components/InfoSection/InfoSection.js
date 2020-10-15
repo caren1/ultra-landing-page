@@ -1,7 +1,23 @@
 import React from 'react'
+
+// REACT ROUTER ELEMENTS
 import { Link } from 'react-router-dom'
+
+// GLOBAL STYLES
 import { Container, Button } from '../../globalStyles'
-import { InfoSec, InfoRow, InfoColumn, TextWrapper, TopLine,  Heading, Subtitle, ImgWrapper, Img } from './InfoSection.elements'
+
+// COMPONENT'S ELEMENTS
+import {
+    InfoSec,
+    InfoRow,
+    InfoColumn,
+    TextWrapper,
+    TopLine,
+    Heading,
+    Subtitle,
+    ImgWrapper,
+    Img
+} from './InfoSection.elements'
 
 const InfoSection = ({ lightBg, imgStart, lightTopLine, lightTextDesc, buttonLabel, description, headline, lightText, topLine, primary, img, alt, start }) => {
     return (

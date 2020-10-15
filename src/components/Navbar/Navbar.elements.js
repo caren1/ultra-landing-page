@@ -3,7 +3,7 @@ import { Container } from '../../globalStyles'
 import { FaMagento } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 
-export const Nav = styled.nav`
+export const Nav = styled.nav `
 background: #101522; 
 height: 80px;
 display: flex;
@@ -33,11 +33,11 @@ display: flex;
 align-items: center;
 `
 
- export const NavIcon = styled(FaMagento)`
+export const NavIcon = styled(FaMagento)`
  margin-right: 0.5rem;
  `
 
- export const MobileIcon = styled.div`
+export const MobileIcon = styled.div `
  display: none;
  
  @media screen and (max-width: 960px) {
@@ -51,7 +51,7 @@ align-items: center;
  }
 `
 
-export const NavMenu = styled.ul`
+export const NavMenu = styled.ul `
 display: flex;
 align-items: center;
 list-style: none;
@@ -71,7 +71,7 @@ text-align: center;
 }
 `
 
-export const NavItem = styled.li`
+export const NavItem = styled.li `
 height: 80px;
 border-bottom: 2px solid transparent;
 
@@ -88,7 +88,7 @@ border-bottom: 2px solid transparent;
 }
 `
 
-export const NavLinks = styled(Link) `
+export const NavLinks = styled(Link)`
 color: #fff;
 display: flex;
 align-items: center;
@@ -109,7 +109,7 @@ height: 100%;
 }
 `
 
-export const NavItemBtn = styled.li`
+export const NavItemBtn = styled.li `
 @media screen and (max-width: 960px) {
     display: flex; 
     justify-content: center;

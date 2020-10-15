@@ -1,8 +1,13 @@
 import React from 'react';
+
+// GLOBAL STYLES
 import { Button } from '../../globalStyles';
+// REACT ICONS
 import { GiCrystalBars } from 'react-icons/gi';
 import { GiCutDiamond, GiRock } from 'react-icons/gi';
 import { IconContext } from 'react-icons/lib';
+
+// COMPONENT'S ELEMENTS
 import {
   PricingSection,
   PricingWrapper,
