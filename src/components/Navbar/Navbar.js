@@ -48,7 +48,7 @@ window.addEventListener('resize', showButton);
          <IconContext.Provider value={{ color: '#fff' }}>
             <Nav>
                 <NavbarContainer>
-                    <NavLogo to="/" onClick={closeMobileMenu}> 
+                    <NavLogo to="/ultra-landing-page" onClick={closeMobileMenu}> 
                         <NavIcon />
                             ULTRA
                     </NavLogo>
@@ -57,7 +57,7 @@ window.addEventListener('resize', showButton);
                     </MobileIcon>
                     <NavMenu onClick={handleClick} click={click}>
                         <NavItem>
-                            <NavLinks to="/">
+                            <NavLinks to="/ultra-landing-page">
                                 Home
                             </NavLinks>
                         </NavItem>
